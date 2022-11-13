@@ -13,7 +13,7 @@ UID &amp; FACEBOOK ACCOUNT CLONER
 
 <h3 align="center"> FILE CLONER</h3>
 
-<h4 align="center"> NUMBER & UID ID CLONNIG TOOLS</h4>
+<h4 align="center"> NUMBER & UID ID CLONER TOOLS</h4>
 
 
 # <b>Installation</b>
